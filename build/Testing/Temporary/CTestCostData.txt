@@ -1,0 +1,13 @@
+compile 0 0
+t_webget 1 1.34429
+byte_stream_basics 1 0.0326029
+byte_stream_capacity 1 0.0226728
+byte_stream_one_write 1 0.026182
+byte_stream_two_writes 1 0.0207783
+byte_stream_many_writes 1 0.0904959
+byte_stream_stress_test 1 0.0252266
+compile 0 0
+byte_stream_speed_test 1 0.162003
+compile with bug-checkers 1 8.94821
+compile with optimization 1 7.96748
+---
